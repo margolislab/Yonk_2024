@@ -1,2 +1,3 @@
 # Yonk_2024
-code for Yonk et al. elife publication
+code used in Yonk et al. elife publication
+https://elifesciences.org/reviewed-preprints/98563
